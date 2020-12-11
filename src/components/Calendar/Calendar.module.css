@@ -1,0 +1,5 @@
+.calendar {
+  grid-area: c;
+  /* background-color: green; */
+  height: auto;
+}
